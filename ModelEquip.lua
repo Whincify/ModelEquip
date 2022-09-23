@@ -25,7 +25,7 @@
     
     USAGE:
     
-    ModelEquip.Init() - Initializes the module.
+    ModelEquip:Init() - Initializes the module.
     ModelEquip:Add(humanoid:Humanoid, model:string, overridePersistant:boolean) - Adds the specified model to the character. 
     ModelEquip:Remove(humanoid:Humanoid, model:string) -- Removes the specified model from a character.
        
